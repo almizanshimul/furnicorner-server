@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Modern Sofa",
+        "imageUrl": "https://i.ibb.co/1zBPnrk/sofa.png",
+        "description": "Modern Sofa with high quality cushion. Wooden frame and Imported cushion with 10 years warrenty.",
+        "price": 290,
+        "quantity": "169",
+        "supplier": "Hatil Furniture"
+    },
+    {
+        "name": "Bed Side Table",
+        "imageUrl": "https://i.ibb.co/Wx4B6CW/bed-side-table.png",
+        "description": "Wooden Bed Side Table. Imported Malaysian processing wood and burnish with 12 years warrenty.",
+        "price": 82,
+        "quantity": 254,
+        "supplier": "Hatil Furniture"
+    },
+    {
+        "name": "King Size Bed",
+        "imageUrl": "https://i.ibb.co/3C7Yb37/bed.png",
+        "description": "King Size Bed with mattress. Canadian wood and high quality mattress with 20 years warrenty.",
+        "price": 650,
+        "quantity": "163",
+        "supplier": "Regal Furniture"
+    },
+    {
+        "name": "Cupboard",
+        "imageUrl": "https://i.ibb.co/YLkJGS0/cupboard.png",
+        "description": "Modern Cupboard with Malaysian processing wood. Imported burnish and 12 years warrenty.",
+        "price": 470,
+        "quantity": 150,
+        "supplier": "Hatil Furniture"
+    },
+    {
+        "name": "Modern Chair",
+        "imageUrl": "https://i.ibb.co/gS5qH4C/chair.png",
+        "description": "Mordern Chair with Malaysian wood. High quality cushion and burnish with 15 years warrenty.",
+        "price": 100,
+        "quantity": "446",
+        "supplier": "Otobi Furniture"
+    },
+    {
+        "name": "Lamp",
+        "imageUrl": "https://images.unsplash.com/photo-1580130281320-0ef0754f2bf7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fGxhbXB8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "description": "This modern lamp is 100% imported from USA. It has a high-quality plastic build body. It has 2 years of waranty.",
+        "price": "110",
+        "quantity": "220",
+        "supplier": "Alto Electronics",
+        "email": "md.nayan8494@gmail.com"
+    },
+    {
+        "name": "Table",
+        "imageUrl": "https://i.ibb.co/qRDpH02/table.png",
+        "description": "This wooden table is made with Canadian process wood. It has imported burnish and 12 years of warranty.",
+        "price": "135",
+        "quantity": "111",
+        "supplier": "Otobi Furniture",
+        "email": "md.nayan8494@gmail.com"
+    },
+    {
+        "name": "Stool",
+        "imageUrl": "https://images.unsplash.com/photo-1503602642458-232111445657?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "description": "Wooden stool with high-quality Malaysian process wood. Imported burnish and 16 years of warranty.",
+        "price": "80",
+        "quantity": "140",
+        "supplier": "Otobi Furniture",
+        "email": "md.nayan8494@gmail.com"
+    }
+]
